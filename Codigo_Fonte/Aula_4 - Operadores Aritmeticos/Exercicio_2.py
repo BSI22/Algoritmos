@@ -11,4 +11,4 @@ taxa_juros = float(input("Informe o valor da taxa de juros anual: "))
 
 rendimento = deposito * taxa_juros / 100 
 
-print(f'O rendimento foi de {rendimento} totalizando um valor de {deposito + rendimento}')
+print(f'O rendimento foi de {rendimento:.2f} totalizando um valor de {deposito + rendimento}')

@@ -16,4 +16,4 @@ valor_broa = 1.50
 total = valor_pao * quant_pao + valor_broa * quant_broa
 guardar_poupanca = total * 10 / 100    # ou total * 0,1
 
-print(f'Valor total vendido foi R${total} e precisa guardar R${guardar_poupanca} reais na poupança')
+print(f'Valor total vendido foi R${total:.2f} e precisa guardar R${guardar_poupanca:.2f} reais na poupança')

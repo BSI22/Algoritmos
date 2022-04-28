@@ -15,9 +15,7 @@ medida_jarda = 0
 medida_milhas = 0
 
 medida_polegadas = medida_pes * 12
-
 medida_jarda = medida_pes / 3
-
 medida_milhas = medida_jarda / 1760
 
 print(f'O valor {medida_pes} em pés equivale a: ')

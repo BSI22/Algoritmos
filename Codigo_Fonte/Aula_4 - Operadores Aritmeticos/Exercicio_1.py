@@ -13,4 +13,4 @@ imposto = 0
 gratificacao = salario_base*5/100   # ou salario_base * 0,05
 imposto = salario_base*7/100        # ou salario_base * 0,07
 
-print(f'O salario final do funcionário é {salario_base + gratificacao - imposto}')
+print(f'O salario final do funcionário é {(salario_base + gratificacao - imposto):.2f}')

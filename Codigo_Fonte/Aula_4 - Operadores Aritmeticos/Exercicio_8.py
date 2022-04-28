@@ -10,4 +10,4 @@ prato_cliente = float(input("Informe o peso do prato do cliente: "))
 PESO_PRATO = 0.250
 valor_kilo = 45
 
-print(f'O valor a ser pago é {(prato_cliente - PESO_PRATO)*valor_kilo}')
+print(f'O valor a ser pago é {((prato_cliente - PESO_PRATO)*valor_kilo):.2f}')
