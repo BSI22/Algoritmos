@@ -1,15 +1,17 @@
 
+    # Exercicio 3 - Lista 2
+
 #   Considere as variáveis abaixo declaradas: 
 #      inteiro d, y, p, q,r;
 #      real a, b, c, s, z;
 
 #   Indique qual o resultado das expressões aritméticas, onde
 
-a = 3.0
-b = 2.0
-c = 0.5 
-s = 9.0
-z = 12.0
+a = float(3.0)
+b = float(2.0)
+c = float(0.5) 
+s = float(9.0)
+z = float(12.0)
 d = int(16)
 y = int(2)
 p = int(4)

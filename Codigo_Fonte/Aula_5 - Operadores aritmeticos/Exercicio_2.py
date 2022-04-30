@@ -1,4 +1,6 @@
 
+    # Exercicio 2 - Lista 2
+
 #  Escreva as expressões algébricas em forma computacional. 
 #  Não se preocupe nesse momento em atribuir o resultado da
 #  expressão a uma variável.
